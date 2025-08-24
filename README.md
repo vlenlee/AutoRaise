@@ -1,4 +1,5 @@
 **AutoRaise**
+
 mac软件，鼠标放上自动切换到该应用
 
 When you hover a window it will be raised to the front (with a delay of your choosing) and gets the focus. There is also an option to warp
